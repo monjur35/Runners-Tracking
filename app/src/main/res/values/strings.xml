@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Runners</string>
+    <string name="google_maps_key">AIzaSyCgYOpGZKjAmHKIT-DjS3Cf0vm8QtX_YmA</string>
 </resources>
