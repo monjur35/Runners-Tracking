@@ -10,6 +10,5 @@ import androidx.room.TypeConverters
 )
 @TypeConverters(BitmapConverter::class)
 abstract class RunDatabase :RoomDatabase() {
-
-    abstract fun getRunDaa() :RunDao
+    abstract fun getRunDao() :RunDao
 }
