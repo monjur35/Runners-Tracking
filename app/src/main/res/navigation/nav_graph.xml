@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/nav_graph">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/runFragment">
 
+    <fragment
+        android:id="@+id/runFragment"
+        android:name="com.example.runners.RunFragment"
+        android:label="fragment_run"
+        tools:layout="@layout/fragment_run" />
+    <fragment
+        android:id="@+id/statisticFragment"
+        android:name="com.example.runners.StatisticFragment"
+        android:label="fragment_statistic"
+        tools:layout="@layout/fragment_statistic" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.runners.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>
