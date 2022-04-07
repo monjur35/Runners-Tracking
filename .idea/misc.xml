@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android projects/Runners/app/src/main/res/font/.xml" value="0.28072916666666664" />
+        <entry key="..\:/Android projects/Runners/app/src/main/res/font/aldrich.xml" value="0.28072916666666664" />
         <entry key="..\:/Android projects/Runners/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
         <entry key="..\:/Android projects/Runners/app/src/main/res/layout/activity_splash.xml" value="0.19010416666666666" />
         <entry key="..\:/Android projects/Runners/app/src/main/res/layout/fragment_run.xml" value="0.19157608695652173" />
