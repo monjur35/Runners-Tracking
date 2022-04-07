@@ -1,8 +1,8 @@
-package com.example.runners
+package com.example.runners.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
+import com.example.runners.R
 import com.example.runners.db.RunDao
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/runFragment"
-        android:name="com.example.runners.RunFragment"
+        android:name="com.example.runners.fragments.RunFragment"
         android:label="fragment_run"
         tools:layout="@layout/fragment_run" />
     <fragment
         android:id="@+id/statisticFragment"
-        android:name="com.example.runners.StatisticFragment"
+        android:name="com.example.runners.fragments.StatisticFragment"
         android:label="fragment_statistic"
         tools:layout="@layout/fragment_statistic" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.example.runners.ProfileFragment"
+        android:name="com.example.runners.fragments.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
 </navigation>
